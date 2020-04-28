@@ -1,0 +1,21 @@
+{
+    "name": "Max Hersov Compsci MADPID project",
+    "dependencies": {
+        "device": "*",
+        "edge-connector": "*",
+        "keyboard": "*",
+        "animation": "*",
+        "darts": "*",
+        "color": "*"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
